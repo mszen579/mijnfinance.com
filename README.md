@@ -4,6 +4,7 @@ Invoicing system with Klippa scanning AI integration
 # Bootstrap
 # HTML
 # CSS
+# MySQL
 /-----------------------------------/
 -	This SAAS is built to help small companies and individual entrepreneurs to manage and track their expenses, create and send invoices customers, and create estimates too: A user can 
 a-	Register his information 
