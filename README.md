@@ -18,3 +18,6 @@ i-	Extract over 10 reports out of the entered data
 -	The system has a control panel with super-admin and Bookkeeper privileges 
 -	The system can provide subscription functionality and different plans types for customers with billing system
 -	The system provides a scanning functionality to OCR expense bill and add all bill information automatically to the system
+
+
+![mijnfinance](https://user-images.githubusercontent.com/35220325/189676374-3920a5b1-b403-4eae-bea3-874906fd8274.png)
